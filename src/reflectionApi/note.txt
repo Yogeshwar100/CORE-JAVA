@@ -1,0 +1,4 @@
+Java Reflection: Java Reflection is a process of examining or modifying the run time behavior of a class at run time.
+The java.lang.Class class performs two tasks
+	-Provides methods to get the metadata of a class at run time.
+	-Provides methods to examine and change the runtime behavior of a class.  
